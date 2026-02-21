@@ -1,0 +1,28 @@
+Responder las siguientes preguntas:
+1.	¿Qué es GIT? 
+     Es un sistema de control de versiones, lo que significa que es un sistema, u un programa que controla y administra las distintas versiones de un programa. 
+     Ayuda a tener un listado de los cambios que vamos haciendo en nuestro programa y podemos contribuir con varios programadores aunque estén del otro lado del mundo,
+     así mismo, trabajar con un código sin importar en que parte del mundo se encuentre. Es un sistema de control distribuido, lo que permite que cada desarrollador tenga 
+     una copia local del código sin que altere el código principal, ayuda a manejar los cambios en el código. Con gib podemos tener un registro de cada línea de código a lo 
+     largo del tiempo en el programa sin importar que es la version1,2,o 20. Puede trabajar con repositorios locales. Git es una herramienta que interactúa directamente con 
+     el sistema operativo por lo que se maneja mucho por medio de consola. 
+2.	¿Cuáles son los comandos más importantes y para que sirven?
+        Los comandos básicos de GIT son: 
+     •	Git init: es una forma de decilre al sistema operativo que vamos a utilizar GIT en un proyecto.
+     •	Git add: nos ayuda a pasar los archivos de working directory a staging area 
+     •	Git status: es para ver en que estados están los archivos, si están en working directory o si están en staging área, etc.
+     •	Git commitv es para pasar lo de staging area al repositorio, es para crear una primera foto de nuestra versión del código.
+     •	Git push: es para subirlo a un repositorio remoto y subirlo a un servidor para que los desarrolladores con permiso de modificar el código puedan acceder. 
+     •	Git pull: es para mostrar los cambios que han hecho los otros desarrolladores 
+     •	Git clone: hace una copia desde el servidor central donde esta el código a nuestra computadora para empezar a trabajar. 
+3.	¿Cuál es la diferencia entre Git y Github?
+        Git es una tecnología que rastrea los cambios de los archivos locales y Github es un         servidor en línea que permite almacenar cambios y le facilata a los
+        desarrolladores el    acceso al código. 
+4. Enumere los comandos para subir cambios a un repositorio.
+        Los comandos para subir cambios a un repositorio son: 
+        1. Git add
+        2. Git commit
+        3. Git push
+5. ¿Qué es una branch  ?
+        Es una rama, es una copia del código que se hace para trabajar en una nueva función sin afectar el código principal, es como una copia del código para trabajar 
+        en ella y luego fusionarla con el código principal.
